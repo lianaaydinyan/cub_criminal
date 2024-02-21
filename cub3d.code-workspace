@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../42-fdf"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"locale": "c",
+			"cub3d.h": "c"
+		}
+	}
+}
